@@ -5,9 +5,4 @@ OLD PROJECT (2014).
 > Note that the implemented GATK version was 3.1.1.0. (2019, current version 4.1.2.0)
 
 
-Extremly outdated. 
-
-Uploading Git just for record.
-
-Would not recommend to use/look the scripts.
 
